@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-hello git
+This is the hello github project.
